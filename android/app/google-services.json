@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1062130669381",
+    "project_id": "flutter-fire-tudo-app",
+    "storage_bucket": "flutter-fire-tudo-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1062130669381:android:7c4854072bc3a0f13d102c",
+        "android_client_info": {
+          "package_name": "com.example.firebase_tudo_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1062130669381-kcv5dnt5knl138j4hphgcvgglkg0p1bn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebase_tudo_app",
+            "certificate_hash": "ff9c59d555bc06a8ac6f31c4c5761e2fe896951e"
+          }
+        },
+        {
+          "client_id": "1062130669381-pjo8gmuvums21p0ed9ctb3gjlh9cksfc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALap4Gvd66-TrvHqHd3xb0aMr1dWcuSPQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1062130669381-pjo8gmuvums21p0ed9ctb3gjlh9cksfc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
